@@ -3,5 +3,8 @@
 	"gitRepoId": "MongooseIM-PHP-Admin",
 	"composerVendorName": "giorgioma",
 	"composerProjectName": "MongooseIM-PHP-Admin",
-	"packagePath": "MongooseIM-PHP-Admin"
+	"packagePath": "MongooseIM-PHP-Admin",
+	"invokerPackage": "MongooseIM\\Admin",
+    "modelPackage": "MongooseIM\\Admin\\Models",
+    "apiPackage": "MongooseIM\\Admin\\Api"
 }

@@ -3,5 +3,8 @@
 	"gitRepoId": "MongooseIM-PHP-Metrics",
 	"composerVendorName": "giorgioma",
 	"composerProjectName": "MongooseIM-PHP-Metrics",
-	"packagePath": "MongooseIM-PHP"
+	"packagePath": "MongooseIM-PHP-Metrics",
+	"invokerPackage": "MongooseIM\\Metrics",
+    "modelPackage": "MongooseIM\\Metrics\\Models",
+    "apiPackage": "MongooseIM\\Metrics\\Api"
 }
